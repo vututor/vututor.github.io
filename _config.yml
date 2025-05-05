@@ -24,13 +24,14 @@ description: >- # used by seo meta and the atom feed
 keywords: >-
   VU exam preparation, CS610 MCQs, programming tutorials, free software downloads, IT concepts, computer science questions, ad-free software, Jekyll themes, networking MCQs, coding practice
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
+#plugins:
+ # - jekyll-seo-tag
+  #- jekyll-sitemap
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://github.com/vututor"
+#url: "https://github.com/vututor"
+url: "https://vututor.github.io"
 
 github:
   username: vututtor # change to your GitHub username
@@ -46,7 +47,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/vututor # change to your GitHub homepage
+    - https://vututor.github.io # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
