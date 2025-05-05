@@ -13,7 +13,7 @@ order: 5
 We’d love to hear from you! Whether it's feedback, collaboration ideas, suggestions for content, or technical questions — feel free to reach out through the following channels:
 
 - 📧 **Email:** [a015194@gmail.com](mailto:a015194@gmail.com)
-- 📺 **YouTube Channel:** [The Life Of Muslims](http://www.youtube.com/@TheLifeOfMuslims)
+- 📺 **YouTube Channel:** [The Life Of Muslims](https://www.youtube.com/@TheLifeOfMuslims)
 
 ---
 
