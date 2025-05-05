@@ -19,7 +19,14 @@ title: VU Tutor # the main title
 tagline: Comprehensive MCQs and Practice Questions for VU Exam Preparation. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A comprehensive platform offering VU exam preparation materials, conceptual MCQs, coding tutorials, and direct downloads of essential software tools — all ad-free.
+
+keywords: >-
+  VU exam preparation, CS610 MCQs, programming tutorials, free software downloads, IT concepts, computer science questions, ad-free software, Jekyll themes, networking MCQs, coding practice
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
