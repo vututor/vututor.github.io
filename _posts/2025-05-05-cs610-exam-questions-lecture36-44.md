@@ -3,6 +3,11 @@ title: "CS610 – Exam Questions (Lectures 36–44)"
 date: 2025-05-05 10:00:00 +0500
 categories: [Networking, Exams]
 tags: [TCP, NAT, Routing, OSPF, BGP, Multicast]
+seo:
+  title: "CS610 Exam Questions (Lectures 36–44) | Networking Concepts"
+  description: "Reinforce your CS610 exam preparation with scenario-based questions covering TCP, NAT, Routing, OSPF, BGP, Multicast, and more. Practice key networking concepts from Lectures 36-44."
+  keywords: "CS610 exam questions, networking exam, TCP transmission, NAT, routing protocols, OSPF, BGP, multicast, networking concepts"
+
 ---
 
 This post contains scenario-based exam-style questions drawn from Lectures 36 to 44 of the CS610 course. These questions are designed to reinforce core networking concepts and prepare you for assessments.
