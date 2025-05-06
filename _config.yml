@@ -24,8 +24,8 @@ description: >- # used by seo meta and the atom feed
 keywords: >-
   VU exam preparation, CS610 MCQs, programming tutorials, free software downloads, IT concepts, computer science questions, ad-free software, Jekyll themes, networking MCQs, coding practice
 
-#plugins:
- # - jekyll-seo-tag
+plugins:
+  - jekyll-seo-tag
   #- jekyll-sitemap
 
 # Fill in the protocol & hostname for your site.
